@@ -299,11 +299,11 @@ npm start
 npm test
 ```
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ⚠️ Limitations
+##  Limitations
 
 - **Single-node implementation** (no consensus)
 - **In-memory state** (not persistent)
@@ -311,18 +311,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **No support for all Solana programs**
 - **No cross-program invocation support**
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Built for educational purposes to demonstrate Solana protocol concepts
 - Compatible with `@solana/web3.js` client library
 - Inspired by Solana's official implementation
 
-## 📞 Support
-
-If you encounter any issues or have questions, please:
-1. Check the [Issues](https://github.com/your-username/solana-mini-validator/issues) page
-2. Create a new issue with detailed information
-3. Join our discussions for community support
-
+##  Support
+For queries mail: kika@sendarcade.fun
 ---
 
